@@ -9,7 +9,7 @@ Proven software developer and Front End Team Leader with a track record of leadi
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [AbulBasarPortfolio](http://basar-portfolio.web.app/)
 * ✉️  You can contact me at [abulbasarofficial5403@gmail.com](mailto:abulbasarofficial5403@gmail.com)
-* 🚀  I'm currently working on [Seaclub](http://seaclub.io/home)
+* 🚀  I'm currently working on [Akbar Tech Consultancy](https://akbartech.xyz/)
 * 🧠  I'm learning Networking, System Design, Backend Development, AWS.
 * 🤝  I'm open to collaborating on any interesting project or company where i will contribute with my expertise.
 
